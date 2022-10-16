@@ -1,0 +1,12 @@
+#name {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 2em;
+  padding-bottom: 6em;
+}
+#container{
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+}
